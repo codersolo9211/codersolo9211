@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codersolo9211
-- 👀 I’m interested in wxploring development concepts in depth
+- 👀 I’m interested in exploring development concepts in depth
 - 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on freelancing projects.
 - 📫 How to reach me https://www.facebook.com/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
