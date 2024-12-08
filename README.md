@@ -1,5 +1,5 @@
 - 👋 Hi, I’m atul pandey
-- 👀 I’m interested in exploring development concepts in depth
+- 👀 An independent and self-motivated hardworking individual dedicated towards goals. 
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on freelancing projects.
 - 📫 How to reach me https://www.facebook.com/
